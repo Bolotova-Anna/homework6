@@ -1,0 +1,16 @@
+C:\Users\Anna\Desktop\УЧЕБА АНЯ\курс. знакомство с языками проограммирования\homework6\task41\obj\Debug\net6.0\task41.GlobalUsings.g.cs
+C:\Users\Anna\Desktop\УЧЕБА АНЯ\курс. знакомство с языками проограммирования\homework6\task41\obj\Debug\net6.0\task41.csproj.AssemblyReference.cache
+C:\Users\Anna\Desktop\УЧЕБА АНЯ\курс. знакомство с языками проограммирования\homework6\task41\obj\Debug\net6.0\task41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\Desktop\УЧЕБА АНЯ\курс. знакомство с языками проограммирования\homework6\task41\obj\Debug\net6.0\task41.AssemblyInfoInputs.cache
+C:\Users\Anna\Desktop\УЧЕБА АНЯ\курс. знакомство с языками проограммирования\homework6\task41\obj\Debug\net6.0\task41.AssemblyInfo.cs
+C:\Users\Anna\Desktop\УЧЕБА АНЯ\курс. знакомство с языками проограммирования\homework6\task41\obj\Debug\net6.0\task41.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\УЧЕБА АНЯ\курс. знакомство с языками проограммирования\homework6\task41\bin\Debug\net6.0\task41.exe
+C:\Users\Anna\Desktop\УЧЕБА АНЯ\курс. знакомство с языками проограммирования\homework6\task41\bin\Debug\net6.0\task41.deps.json
+C:\Users\Anna\Desktop\УЧЕБА АНЯ\курс. знакомство с языками проограммирования\homework6\task41\bin\Debug\net6.0\task41.runtimeconfig.json
+C:\Users\Anna\Desktop\УЧЕБА АНЯ\курс. знакомство с языками проограммирования\homework6\task41\bin\Debug\net6.0\task41.dll
+C:\Users\Anna\Desktop\УЧЕБА АНЯ\курс. знакомство с языками проограммирования\homework6\task41\bin\Debug\net6.0\ref\task41.dll
+C:\Users\Anna\Desktop\УЧЕБА АНЯ\курс. знакомство с языками проограммирования\homework6\task41\bin\Debug\net6.0\task41.pdb
+C:\Users\Anna\Desktop\УЧЕБА АНЯ\курс. знакомство с языками проограммирования\homework6\task41\obj\Debug\net6.0\task41.dll
+C:\Users\Anna\Desktop\УЧЕБА АНЯ\курс. знакомство с языками проограммирования\homework6\task41\obj\Debug\net6.0\ref\task41.dll
+C:\Users\Anna\Desktop\УЧЕБА АНЯ\курс. знакомство с языками проограммирования\homework6\task41\obj\Debug\net6.0\task41.pdb
+C:\Users\Anna\Desktop\УЧЕБА АНЯ\курс. знакомство с языками проограммирования\homework6\task41\obj\Debug\net6.0\task41.genruntimeconfig.cache
